@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-wrapper",
+  "version": "1.0.0",
+  "description": "mongodb wrapper is data access lib for node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caohonghiep/mongodb-wrapper.git"
+  },
+  "author": "caohonghiep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caohonghiep/mongodb-wrapper/issues"
+  },
+  "homepage": "https://github.com/caohonghiep/mongodb-wrapper#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
